@@ -1,9 +1,10 @@
      spaCy Text Visualization (Dependency Parsing & NER)
 
      📌 Overview
-          This project demonstrates text visualization techniques using spaCy and displaCy, focusing on how syntactic structure and named entities
-          that can be visually explored in both English and Arabic texts. 
-          The project highlights HTML-based visualizations, sentence-level rendering, and model limitations when working with multilingual data.
+          This project demonstrates text visualization techniques using spaCy and displaCy,
+          focusing on how syntactic structure and named entities that can  explored in both English and Arabic texts. 
+          The project highlights HTML-based visualizations, sentence-level rendering,
+          and model limitations when working with multilingual data.
 
      🎯 Objectives
          1. Visualize syntactic relations using dependency parsing
@@ -95,8 +96,3 @@
            1. Dependency visualization will not be linguistically valid without a parser-enabled model
            2. Arabic dependency parsing requires a dedicated Arabic pipeline
            3. Multilingual models prioritize coverage over syntactic depth
-
-
-Notebook-friendly
-
-Shareable and embeddable
